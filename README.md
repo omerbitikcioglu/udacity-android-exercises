@@ -1,6 +1,6 @@
 # Udacity-Android-Exercises
 
-# Udacity-DiceRoller
+## Dice Roller
 
 ### What I Learned
 - Main App Anatomy
@@ -11,7 +11,7 @@
 
 ![](https://media.giphy.com/media/gM19C32XQbtNlF3N9I/giphy.gif)
 
-# Udacity-AboutMe
+## About Me
 
 ### What I Learned
 - View Groups & View Hiearchy
@@ -22,7 +22,7 @@
 
 ![](https://media.giphy.com/media/0lWhyy9l6VGHywujiv/giphy.gif)
 
-# Udacity-ColorMyViews
+## Color My Views
 
 ### What I Learned
 - Constraint Layout
