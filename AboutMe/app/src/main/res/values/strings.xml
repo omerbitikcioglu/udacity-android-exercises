@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Omer Bitikcioglu</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem libero,
+        hendrerit vitae lobortis sed, semper ut leo. Ut a quam ultricies, feugiat elit sit amet, lobortis diam.
+        \n\nNulla consectetur vulputate risus, nec consequat eros pulvinar ac. Suspendisse tristique nec eros nec elementum.
+        Sed molestie erat vel enim feugiat rhoncus. Etiam in varius purus, eu condimentum nisl. Sed congue eleifend elit,
+        eget gravida neque vulputate ut. Fusce blandit nisl et lacus elementum pulvinar. Sed euismod nulla eget leo congue,
+        a fringilla mauris interdum. Aliquam eleifend vulputate metus at maximus.
+        Etiam felis nisl, imperdiet id urna finibus, rhoncus sollicitudin odio. Morbi semper nulla quis efficitur ultricies.
+        Phasellus augue nunc, tempor non lorem nec, molestie pharetra quam. Pellentesque sit amet elit quis orci tempus mattis.
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse finibus sodales lacus,
+        id ornare ipsum. Donec pulvinar convallis pretium. Mauris non enim.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
